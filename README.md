@@ -11,8 +11,8 @@
 
 <style> body {background-color: green;/</style>
 
-<style> h1 {color:red;} </style>
-<style> p1 {color:red;} </style>
+<style> h1 {color:white;} </style>
+<style> p1 {color:white;} </style>
  
 </body>
 </html>
