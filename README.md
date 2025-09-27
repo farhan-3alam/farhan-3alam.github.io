@@ -48,7 +48,7 @@
 </center>
 
 <h4 style="color: white;">Bengali Language Movement</h4>
-<p style="color: white;">One of the most prominent cultural differences between East and West Pakistan was language. West Pakistan was a multilingual province with multiple languages in various districts. On the other hand, the entire population of East Pakistan spoke the Bengali language. Despite only a small percentage of the Pakistani population natively speaking the language, Urdu was declared as the national language of Pakistan besides English. In 1952, East Pakistan revolted, believing that they were being underrepresented as Bengali speakers despite being the majority of the overall Pakistani population. Despite Bengali being recognized as an official language four years after the revolt, the Pakistani government continued economic, political and ethnic discrimination against East Pakistan.</p>
+<p style="color: white;">One of the most prominent cultural differences between East and West Pakistan was language. West Pakistan was a multilingual province with multiple languages in various districts. On the other hand, the entire population of East Pakistan spoke the Bengali language. Urdu was declared as the national language of Pakistan besides English, even though only a small percentage of Pakistanis spoke it natively. In 1952, East Pakistan revolted, believing that they were being underrepresented as Bengali speakers despite being the majority of the overall Pakistani population. Despite Bengali being recognized as an official language four years after the revolt, the Pakistani government continued economic, political and ethnic discrimination against East Pakistan.</p>
 
 <center>
 <figure>
