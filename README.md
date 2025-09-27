@@ -11,9 +11,9 @@
 <h2 style="color: white;">Medieval Period</h2>
 <p style="color: white;">The Bengal region's medieval history was marked by Islamic rule. The Ghurid dynasty conquered the Sena dynasty in 1204, after which the region became part of the Delhi Sultanate of India. The region enjoyed a brief period of independence from 1341 to 1576 under the Bengal Sultanate. During this time period, the Sultanate greatly expanded its borders as well as its economy, inviting traders from China and Europe. Even after Mughal conquest in 1576, Bengal was a popular place of economic activity as international merchants sought the region's highly-prized textiles of cotton and silk. As the Mughal Empire began to decline in the early 18th century, Bengal acquired semi-autonomy and was controlled by rulers known as Nawabs.</p>
 
-<figure class="center-figure">
-<img src="coins.jpg" alt="Two coins from the Bengal Sultanate" class="center-image-margin">
-<figcaption>Two gold coins from the Bengal Sultanate</figcaption>
+<figure>
+<img src="coins.jpg" alt="Two coins from the Bengal Sultanate" class="center">
+<figcaption style="color: lightgray;">Two gold coins from the Bengal Sultanate</figcaption>
 </figure>
 
 <h2 style="color: white;">British Period</h2>
@@ -22,17 +22,17 @@
 <h2 style="color: white;">East Pakistan</h2>
 <p>After Britain relinquished control over British India in 1947, the colony split into two countries: India and Pakistan. The borders of the countries were determined by the religious demographics of British India. Hindu-majority provinces were joined together to form India, while Muslim-majority provinces became Pakistan. Muslims in British India were concentrated in two parts of British India: in the Northwest and in the East. The Northwest areas became the province of West Pakistan, and the Eastern areas, which was the Bengal region, became the province of East Pakistan. Despite sharing religious beliefs and being unified as one country, the two provinces were located 1,000 miles apart and had significant cultural differences.</p>
 
-<figure class="center-figure">
-<img src="partition-of-india-1947.jpg" alt="Map of India Partition after 1947" class="center-image-margin">
-<figcaption>A map of the Indian Partition in 1947, with India in orange and Pakistan in green</figcaption>
+<figure>
+<img src="partition-of-india-1947.jpg" alt="Map of India Partition after 1947" class="center">
+<figcaption style="color: lightgray;">A map of the Indian Partition in 1947, with India in orange and Pakistan in green</figcaption>
 </figure>
 
 <h4 style="color: white;">Bengali Language Movement</h4>
 <p style="color: white;">One of the most prominent cultural differences between East and West Pakistan was language. West Pakistan was a multilingual province with multiple languages in various provinces. On the other hand, the entire population of East Pakistan spoke the Bengali language. Despite only a small percentage of the Pakistani population natively speaking the language, Urdu was declared as the national language of Pakistan besides English. In 1952, East Pakistan revolted, believing that they were being underrepresented as Bengali speakers despite being the majority of the overall Pakistani population. Despite Bengali being recognized as an official language four years after the revolt, the Pakistani government continued economic, political and ethnic discrimination against East Pakistan.</p>
 
-<figure class="center-figure">
-<img src="shaheed-minar.jpg" alt="Shaheed Minar" class="center-image-margin">
-<figcaption>The Shaheed Minar, a monument in Dhaka to commemorate those who died in the Language Movement</figcaption>
+<figure>
+<img src="shaheed-minar.jpg" alt="Shaheed Minar" class="center">
+<figcaption style="color: lightgray;">The Shaheed Minar, a monument in Dhaka to commemorate those who died in the Language Movement</figcaption>
 </figure>
 
 <h4 style="color: white;">Independence Movement</h4>
