@@ -32,13 +32,13 @@
 
 <div class="row">
   <div class="column">
-    <img src="bd_flag.jpg" alt="Bangladesh Flag" style="width:100%">
+    <img src="bd_flag.jpg" alt="Bangladesh Flag" style="width:33%">
   </div>
   <div class="column">
-    <img src="bd_emblem.png" alt="Bangladesh Emblem" style="width:100%">
+    <img src="bd_emblem.png" alt="Bangladesh Emblem" style="width:33%">
   </div>
   <div class="column">
-    <img src="bd_map.png" alt="Bangladesh Map" style="width:100%">
+    <img src="bd_map.png" alt="Bangladesh Map" style="width:33%">
   </div>
 </div>
 
