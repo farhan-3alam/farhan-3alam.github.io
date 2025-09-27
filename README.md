@@ -5,15 +5,15 @@
 
 <center>
 <figure>
-<img src="bd_flag.png" alt="Flag of Bangladesh" width="314" height="1000">
+<img src="bd_flag.png" alt="Flag of Bangladesh" width="157" height="157">
 <figcaption style="color: lightgray;">Flag</figcaption>
 </figure>
 <figure>
-<img src="bd_emblem.png" alt="Emblem of Bangladesh" width="314" height="314">
+<img src="bd_emblem.png" alt="Emblem of Bangladesh" width="157" height="157">
 <figcaption style="color: lightgray;">National Emblem</figcaption>
 </figure>
 <figure>
-<img src="bd_map.png" alt="Map of Bangladesh" width="250" height="314">
+<img src="bd_map.png" alt="Map of Bangladesh" width="125" height="157">
 <figcaption style="color: lightgray;">Map</figcaption>
 </figure>
 </center>
