@@ -29,7 +29,7 @@
 <center>
 <figure>
 <img src="coins.jpg" alt="Two coins from the Bengal Sultanate">
-<figcaption style="color: lightgray;">Two gold coins from the Bengal Sultanate</figcaption>
+<figcaption style="color: gray;">Two gold coins from the Bengal Sultanate</figcaption>
 </figure>
 </center>
 
@@ -43,7 +43,7 @@
 <center>
 <figure>
 <img src="partition-of-india-1947.jpg" alt="Map of India Partition after 1947">
-<figcaption style="color: lightgray;">A map of the Indian Partition in 1947, with India in orange and Pakistan in green</figcaption>
+<figcaption style="color: gray;">A map of the Indian Partition in 1947, with India in orange and Pakistan in green</figcaption>
 </figure>
 </center>
 
@@ -53,7 +53,7 @@
 <center>
 <figure>
 <img src="shaheed-minar.jpg" alt="Shaheed Minar">
-<figcaption style="color: lightgray;">The Shaheed Minar, a monument in Dhaka to commemorate those who died in the Language Movement</figcaption>
+<figcaption style="color: gray;">The Shaheed Minar, a monument in Dhaka to commemorate those who died in the Language Movement</figcaption>
 </figure>
 </center>
 
