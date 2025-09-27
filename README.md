@@ -1,5 +1,4 @@
 <html>
-<title> History of Bangladesh </title>
 
 <h1>Bangladesh</h1>
 <p>Bangladesh is a country in South Asia in the geographical Bengal region. Bangladesh borders India and Myanmar, and has a coast along the Bay of Bengal to the south. The densely populated country has a population of 169 million people according to the 2022 Census, making it the 8th most populous country in the world. 44 million of those people reside in the capital and largest city of Dhaka.</p>
@@ -16,7 +15,7 @@
 <p>Bengal was conquered by the British in 1757, becoming a part of the British Empire as the Bengal Presidency. The conquer of Bengal gave way for the British to conquer the rest of the Indian subcontinent. During its time as a province of British India, the Bengal region saw a decline in economic activity as the British took control of natural resources and raw materials, leading to the fall of the once-famous textile industry. British rule of the area was also marked by multiple famines, leading to the deaths of millions of people in the Bengal Presidency.</p>
 
 <h3>East Pakistan</h3>
-<p>After Britain relinquished control over British India, the colony split into two countries: India and Pakistan. The borders of the countries were determined by the religious demographics of British India. Hindu-majority provinces were joined together to form India, while Muslim-majority provinces became Pakistan. Bengal, with its Muslim-majority population, became part of Pakistan. </p>
+<p>After Britain relinquished control over British India, the colony split into two countries: India and Pakistan. The borders of the countries were determined by the religious demographics of British India. Hindu-majority provinces were joined together to form India, while Muslim-majority provinces became Pakistan. </p>
 
 
 </html>
