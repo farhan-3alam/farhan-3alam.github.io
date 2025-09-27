@@ -3,6 +3,21 @@
 <h1 style="color: white;">Bangladesh</h1>
 <p style="color: white;">Bangladesh is a country in South Asia in the geographical Bengal region. Bangladesh borders India and Myanmar, and has a coast along the Bay of Bengal to the south. The densely populated country has a population of 169 million people according to the 2022 Census, making it the 8th most populous country in the world. 44 million of those people reside in the capital and largest city of Dhaka.</p>
 
+<figure>
+<img src="bd_flag.png" alt="Flag of Bangladesh">
+<figcaption style="color: lightgray;">Flag</figcaption>
+</figure>
+
+<figure>
+<img src="bd_emblem.png" alt="Emblem of Bangladesh">
+<figcaption style="color: lightgray;">National Emblem</figcaption>
+</figure>
+
+<figure>
+<img src="bd_map.png" alt="Map of Bangladesh">
+<figcaption style="color: lightgray;">Map</figcaption>
+</figure>
+
 <h1 style="color: white;">History</h1>
 
 <h2 style="color: white;">Early Period</h2>
