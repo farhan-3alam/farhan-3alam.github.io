@@ -13,7 +13,7 @@
 <figcaption style="color: gray;">National Emblem</figcaption>
 </figure>
 <figure>
-<img src="bd_map.png" alt="Bangladesh Map" width="300" height="450">
+<img src="bd_map.png" alt="Bangladesh Map" width="300" height="420">
 <figcaption style="color: gray;">Map</figcaption>
 </figure>
 </center>
