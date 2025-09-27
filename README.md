@@ -3,26 +3,33 @@
 <h1 style="color: white;">Bangladesh</h1>
 <p style="color: white;">Bangladesh is a country in South Asia in the geographical Bengal region. Bangladesh borders India and Myanmar, and has a coast along the Bay of Bengal to the south. The densely populated country has a population of 169 million people according to the 2022 Census, making it the 8th most populous country in the world. 44 million of those people reside in the capital and largest city of Dhaka.</p>
 
-<left>
-<figure>
-<img src="bd_flag.jpg" alt="Flag of Bangladesh" width="222" height="144">
-<figcaption style="color: lightgray;">Flag</figcaption>
-</figure>
-</left>
 
-<center>
-<figure>
-<img src="bd_emblem.png" alt="Emblem of Bangladesh" width="157" height="157">
-<figcaption style="color: lightgray;">National Emblem</figcaption>
-</figure>
-</center>
+<head>
+<style>
+.image-row {display: flex; justify-content: space-around; align-items: center;}
 
-<right>
-<figure>
-<img src="bd_map.png" alt="Map of Bangladesh" width="125" height="157">
-<figcaption style="color: lightgray;">Map</figcaption>
-</figure>
-</right>
+.image-item {flex: 1; padding: 10px; text-align: center;}
+
+.image-item img {max-width: 100%; height: auto; display: block;}
+</style>
+</head>
+<body>
+
+<div class="image-row">
+  <div class="image-item">
+    <img src="bd_flag.jpg" alt="Bangladesh Flag">
+    <p>Flag</p>
+  </div>
+  <div class="image-item">
+    <img src="bd_emblem.jpg" alt="Bangladesh Emblem">
+    <p>National Emblem</p>
+  </div>
+  <div class="image-item">
+    <img src="bd_map.jpg" alt="Bangladesh Map">
+    <p>Map</p>
+  </div>
+</div>
+</body>
 
 
 <h1 style="color: white;">History</h1>
