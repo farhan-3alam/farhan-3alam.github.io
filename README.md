@@ -5,7 +5,7 @@
 
 <center>
 <figure>
-<img src="bd_flag.jpg" alt="Flag of Bangladesh">
+<img src="bd_flag.jpg" alt="Flag of Bangladesh" width="222" height="144>
 <figcaption style="color: lightgray;">Flag</figcaption>
 </figure>
 <figure>
