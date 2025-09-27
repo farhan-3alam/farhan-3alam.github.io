@@ -21,11 +21,11 @@
     <p>Flag</p>
   </div>
   <div class="image-item">
-    <img src="bd_emblem.jpg" alt="Bangladesh Emblem">
+    <img src="bd_emblem.png" alt="Bangladesh Emblem">
     <p>National Emblem</p>
   </div>
   <div class="image-item">
-    <img src="bd_map.jpg" alt="Bangladesh Map">
+    <img src="bd_map.png" alt="Bangladesh Map">
     <p>Map</p>
   </div>
 </div>
