@@ -4,32 +4,50 @@
 <p style="color: white;">Bangladesh is a country in South Asia in the geographical Bengal region. Bangladesh borders India and Myanmar, and has a coast along the Bay of Bengal to the south. The densely populated country has a population of 169 million people according to the 2022 Census, making it the 8th most populous country in the world. 44 million of those people reside in the capital and largest city of Dhaka.</p>
 
 
+
+
+<html>
 <head>
 <style>
-.image-row {display: flex; justify-content: space-around; align-items: center;}
+* {
+  box-sizing: border-box;
+}
 
-.image-item {flex: 1; padding: 10px; text-align: center;}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 
-.image-item img {max-width: 100%; height: auto; display: block;}
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 </style>
 </head>
 <body>
 
-<div class="image-row">
-  <div class="image-item">
-    <img src="bd_flag.jpg" alt="Bangladesh Flag">
-    <p>Flag</p>
+<h2>Images Side by Side</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+<div class="row">
+  <div class="column">
+    <img src="bd_flag.jpg" alt="Bangladesh Flag" style="width:100%">
   </div>
-  <div class="image-item">
-    <img src="bd_emblem.png" alt="Bangladesh Emblem">
-    <p>National Emblem</p>
+  <div class="column">
+    <img src="bd_emblem.png" alt="Bangladesh Emblem" style="width:100%">
   </div>
-  <div class="image-item">
-    <img src="bd_map.png" alt="Bangladesh Map">
-    <p>Map</p>
+  <div class="column">
+    <img src="bd_map.png" alt="Bangladesh Map" style="width:100%">
   </div>
 </div>
+
 </body>
+</html>
+
+
 
 
 <h1 style="color: white;">History</h1>
